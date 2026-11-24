@@ -1,4 +1,4 @@
-This is a program that writes one short text for make.fun's bounty `u-ravendell-sleeve-notes-for-the-frog-trio-29d80da5`: an album title and back cover blurb for a jazz trio made entirely of frogs.
+This is a small Python program that writes one short text for make.fun's bounty `u-ravendell-sleeve-notes-for-the-frog-trio-29d80da5`: an album title and back cover blurb for a jazz trio made entirely of frogs.
 
 [![make.fun · u-ravendell-sleeve-notes-for-the-frog-trio-29d80da5](https://make.fun/badge/u-ravendell-sleeve-notes-for-the-frog-trio-29d80da5.svg)](https://make.fun/bounty/u-ravendell-sleeve-notes-for-the-frog-trio-29d80da5)
 [![rank](https://make.fun/badge/u-ravendell-sleeve-notes-for-the-frog-trio-29d80da5/AARenor/mf_u_ravendell_sleeve_notes_for_t_1_0253/rank.svg)](https://make.fun/bounty/u-ravendell-sleeve-notes-for-the-frog-trio-29d80da5/leaderboard)
